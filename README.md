@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy María Paulina Guerrero Vilches
 
 ### 👩‍💻 Sobre mí
-[cite_start]Soy **Ingeniera Civil en Informática** con más de 15 años de trayectoria como **Analista Funcional y QA**[cite: 4]. [cite_start]He trabajado en sectores críticos como finanzas, pensiones y energía [cite: 4][cite_start], actuando como puente entre las necesidades del negocio y las soluciones técnicas[cite: 7].
+Soy **Ingeniera Civil en Informática** con más de 15 años de trayectoria como **Analista Funcional y QA**. Vivo en **Ñuñoa, Santiago** y he trabajado en sectores como finanzas, pensiones, consultoría y energía, actuando como puente entre las necesidades del negocio y las soluciones técnicas.
 
 Actualmente, estoy integrando mi experiencia en aseguramiento de calidad con el **Análisis de Datos**, convencida de que la precisión de la información es la clave para decisiones estratégicas exitosas.
 
