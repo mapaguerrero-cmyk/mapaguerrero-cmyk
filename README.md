@@ -15,4 +15,4 @@ Actualmente, estoy integrando mi experiencia en aseguramiento de calidad con el 
 - 📫 Cómo contactarme: ¡Puedes revisar mis repositorios o escribirme por aquí!
 
 ---
-*“Los datos son el nuevo petróleo, pero solo son útiles si se sabe cómo refinarlos.”*
+*“Los datos son la fuente de energía, pero solo son útiles si se sabe cómo refinarlos.”*
